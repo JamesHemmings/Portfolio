@@ -161,7 +161,7 @@ nav {
 
 .about-me{
     background-color:var(--clr-dark);
-    background:url(img/aboutphoto.jpg);
+    background-image:url(img/aboutphoto.jpg);
     background-size:cover;
     background-blend-mode: multiply;
     text-align:left;
