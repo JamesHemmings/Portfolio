@@ -243,8 +243,8 @@ nav {
 .homebtn {
     width:25%;
     margin-bottom:1em;
-    margin-left:1em;
-    position: relative;
+    left:0;
+    position: fixed;
     text-align: center;
     width: 100px;
     padding: 5px;
